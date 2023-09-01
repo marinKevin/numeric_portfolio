@@ -254,6 +254,18 @@ a img{
     height: auto;
     margin-right: 0.8vw;
 }
+@media screen and (max-width :2150px) {
+    #frigo5{
+        display: none;
+    }
+    #frigo3{
+        grid-column: 2;
+        grid-row: 3;
+    }
+    #page_site_frigo{
+        overflow: auto;
+    }
+}
 
 @media screen and (max-width :1800px) {
     
