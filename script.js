@@ -1,4 +1,4 @@
-// 1 Le Menu :
+// Le Menu :
 
 let kevin_nav = document.querySelector("#kevin_nav");
 let skills_nav = document.querySelector("#skills_nav");
